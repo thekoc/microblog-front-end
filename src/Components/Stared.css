@@ -1,0 +1,15 @@
+.stared-post {
+    width: 30rem
+}
+
+.stared-post > div > div {
+    box-shadow: 0 7px 10px 1px rgba(0, 0, 0, 0.05);
+    margin-top: -3px;
+    background-color: white;
+    border: 0ch !important;
+    border-radius: .3rem !important
+}
+
+.stared-post > div > span:hover {
+  cursor: pointer;
+}

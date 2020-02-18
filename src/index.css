@@ -1,0 +1,8 @@
+a:hover,
+a:focus {
+  cursor: pointer;
+}
+
+img.avatar {
+    box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.05);
+}
